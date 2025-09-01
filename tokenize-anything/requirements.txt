@@ -1,0 +1,4 @@
+Pillow
+gradio-image-prompter
+sentencepiece
+flash-attn
